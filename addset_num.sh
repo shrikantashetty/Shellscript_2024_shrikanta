@@ -1,5 +1,4 @@
 #!/bin/bash
-set -x
 arr_name="10 20 2 30 50"
 sum1=0
 for i in $arr_name
